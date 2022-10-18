@@ -1,0 +1,4 @@
+cls
+exit
+yarn hardat deployments
+yarn hardhat node
